@@ -13,7 +13,7 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 
-````
+```
 def result(a, b):
     print("The result of", a, "%", b, "is:", a % b)
 
